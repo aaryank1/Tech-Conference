@@ -43,26 +43,13 @@ npm run preview
 
 ## Features
 
-### Countdown Timer
-A countdown timer that shows the time left until the event starts. The timer updates every second.
-
-### Speaker Information
-A section that displays information about the speakers, including their names, titles, bios, and photos.
-
-### Schedule
-A detailed schedule of the event, including the date, time, topic, and speaker for each session.
-
-### Venue Details
-Information about the venue, including an embedded Google Maps location, accessibility options, amenities, and instructions for attendees.
-
-### Dark Mode
-A dark mode toggle that allows users to switch between light and dark themes.
-
-### Responsive Design
-The application is fully responsive and works well on both desktop and mobile devices.
-
-### Social Media Links
-Links to the conference's social media pages, including Twitter, Facebook, LinkedIn, and Instagram.
+- **Countdown Timer**: A countdown timer that shows the time left until the event starts. The timer updates every second.
+- **Speaker Information**: A section that displays information about the speakers, including their names, titles, bios, and photos.
+- **Schedule**: A detailed schedule of the event, including the date, time, topic, and speaker for each session.
+- **Venue Details**: Information about the venue, including an embedded Google Maps location, accessibility options, amenities, and instructions for attendees.
+- **Dark Mode**: A dark mode toggle that allows users to switch between light and dark themes.
+- **Responsive Design**: The application is fully responsive and works well on both desktop and mobile devices.
+- **Social Media Links**: Links to the conference's social media pages, including Twitter, Facebook, LinkedIn, and Instagram.
 
 ## Contributing
 
