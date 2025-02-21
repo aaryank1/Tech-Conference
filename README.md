@@ -8,7 +8,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tech-conference-2025.git
+   git clone https://github.com/your-username/Tech-Conference.git
    cd tech-conference-2025
    ```
 
