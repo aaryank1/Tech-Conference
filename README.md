@@ -2,6 +2,13 @@
 
 This project is a Svelte-based web application for the Tech Conference 2025. It includes various features such as a countdown timer, speaker information, schedule, venue details, and more.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/0a799dc2-e452-4648-a2cf-09e37abdef1d
+
+
+
 ## Project Setup
 
 To set up the project, follow these steps:
